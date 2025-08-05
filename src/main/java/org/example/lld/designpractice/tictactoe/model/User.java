@@ -5,3 +5,6 @@ public class User {
     private String email;
     private Byte[] profileImage;
 }
+
+
+//User is intrinsic state
