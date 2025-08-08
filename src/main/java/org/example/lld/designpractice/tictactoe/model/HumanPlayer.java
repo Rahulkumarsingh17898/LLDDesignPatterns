@@ -1,7 +1,10 @@
 package org.example.lld.designpractice.tictactoe.model;
 
+import lombok.Getter;
+import lombok.Setter;
 import org.example.lld.designpractice.tictactoe.enums.SymbolEnum;
-
+@Getter
+@Setter
 public class HumanPlayer extends Player{
 
 
