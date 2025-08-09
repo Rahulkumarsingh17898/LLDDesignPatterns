@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="633e799b-6165-4200-8aeb-7c028eb0efd9" name="Changes" comment="Unversioned files not committed earlier">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/Exceptions/InvalidParkingLotRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/controller/ParkingLotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/controller/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/dtos/CreateParkingLotRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/dtos/CreateTicketRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/generators/FloorId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/generators/SlotId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/DisplayBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/GateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/ParkingGate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/PaymentCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/PaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/SpotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/repository/ParkingLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/repository/SlotRepositories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/service/ParkingLotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/service/SlotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/service/TicketService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="LLD_TicTacToe" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="305AKUKemwoswbntNKPqviiqVoK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.lld.designpractice.parkingLot.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;LLD__ParkingLotCodeV1&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rahulkumarsingh/Desktop/SDEIMPNotes/LLD/LldDPCode&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.lld.designpractice.parkingLot.service" />
+      <recent name="org.example.lld.designpractice.parkingLot.dtos" />
+      <recent name="org.example.lld.designpractice.parkingLot.repository" />
+      <recent name="org.example.lld.designpractice.parkingLot.models" />
+      <recent name="org.example.lld.designpractice.tictactoe.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.example.lld.designpractice.parkingLot.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.designPattern.statePattern.VendingMachine.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.designPattern.statePattern.VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.lld.designpractice.parkingLot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lld.designpractice.parkingLot.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.lld.designpractice.parkingLot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.example.lld.designpractice.parkingLot.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-203781b8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="633e799b-6165-4200-8aeb-7c028eb0efd9" name="Changes" comment="" />
+      <created>1752906995502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752906995502</updated>
+      <workItem from="1754374164181" duration="5744000" />
+      <workItem from="1754460822652" duration="29643000" />
+      <workItem from="1754745551746" duration="1688000" />
+    </task>
+    <task id="LOCAL-00001" summary="VendingMachine DP">
+      <option name="closed" value="true" />
+      <created>1754374231805</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754374231805</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial first version of Model classes for TicTacToe">
+      <option name="closed" value="true" />
+      <created>1754397713958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754397713958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding Flyweight dp for ProfileImage Duplicate">
+      <option name="closed" value="true" />
+      <created>1754398059627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754398059627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding implementation for tic tac toe methods">
+      <option name="closed" value="true" />
+      <created>1754635998640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754635998640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Unversioned files not committed earlier">
+      <option name="closed" value="true" />
+      <created>1754636049248</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754636049248</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VendingMachine DP" />
+    <MESSAGE value="Initial first version of Model classes for TicTacToe" />
+    <MESSAGE value="Adding Flyweight dp for ProfileImage Duplicate" />
+    <MESSAGE value="Adding implementation for tic tac toe methods" />
+    <MESSAGE value="Unversioned files not committed earlier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unversioned files not committed earlier" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/lld/designpractice/parkingLot/models/BaseModel.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
